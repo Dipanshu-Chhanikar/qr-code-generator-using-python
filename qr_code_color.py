@@ -1,5 +1,3 @@
-from calendar import c
-from ensurepip import version
 import qrcode                                                               #importing qrcode module
 from PIL import Image                                                       #importing pil module
 
