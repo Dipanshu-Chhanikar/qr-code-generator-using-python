@@ -1,4 +1,4 @@
-import qrcode as qr                                         #importing qrcode library
+import qrcode as qr                                         #importing qrcode module
 
 img = qr.make("https://github.com/Dipanshu-Chhanikar")      #specifying the url for qr code
 
